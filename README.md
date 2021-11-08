@@ -1,6 +1,5 @@
 # oiledmachine-overlay-legacy
 
-01234567890123456789012345678901234567890123456789012345678901234567890123456789
 This overlay is contains possibly useful ebuilds from the 
 [oiledmachine-overlay](https://github.com/orsonteodoro/oiledmachine-overlay).
 
